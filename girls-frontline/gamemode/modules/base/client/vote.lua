@@ -132,8 +132,8 @@ net.Receive( "brawl.vote.start", function( len )
 	end)
 
 	surface.PlaySound(table.Random({
-		"girls-frontline/vote-map.ogg",
-		"girls-frontline/vote-map2.ogg",
+		"girls-frontline/vote-map.mp3",
+		"girls-frontline/vote-map.mp3",
 	}))
 
 	timer.Simple( 29.7, function()
