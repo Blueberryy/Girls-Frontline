@@ -1,4 +1,8 @@
 # Girls-Frontline
+
+Upload to github by Blueberry 
+Original autor Ruko https://steamcommunity.com/profiles/76561198029078692/
+
 Girls Frontline: Operation Binary is a tactical shooter featuring various PVP gamemodes, based on 
 the popular mobile game, Girls Frontline. 
 
