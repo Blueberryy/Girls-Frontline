@@ -129,7 +129,14 @@ function brawl.hud.drawRoundOverlay()
 	if not brawl.modes.overlay then return end
 
 	if not brawl.modes.overlay.started then
-		surface.PlaySound( "girls-frontline/round-start.ogg" )
+		surface.PlaySound(table.Random({
+		"girls-frontline/round-start.mp3",
+		"girls-frontline/round-start2.mp3",
+		"girls-frontline/round-start3.mp3",
+		"girls-frontline/round-start4.mp3",
+		"girls-frontline/round-start5.mp3",
+		"girls-frontline/round-start6.mp3",
+	}))
 		brawl.modes.overlay.outTime = CurTime() + brawl.modes.overlay.delay
 		brawl.modes.overlay.started = true
 	end
@@ -431,7 +438,7 @@ net.Receive( "brawl.exp.levelUp", function( len )
 	lUpTxt = net.ReadString()
 
 	timer.Simple( 0.2, function()
-		surface.PlaySound( "girls-frontline/exp-levelup.ogg" )
+		surface.PlaySound( "girls-frontline/exp-levelup.mp3" )
 	end)
 
 end)
