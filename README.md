@@ -1,7 +1,7 @@
 # Girls-Frontline
 Girls Frontline: Operation Binary is a tactical shooter featuring various PVP gamemodes, based on 
-the popular mobile game, Girls Frontline.  
-https://i.imgur.com/lQQxS66.png
+the popular mobile game, Girls Frontline. 
+
 The game is a mixture of fast pace action, and tactical combat.    
 
 In Girls Frontline: Operation Binary each map is randomized with a randomized gamemode as well,
@@ -29,3 +29,5 @@ Be aware that this is just the content for the gamemode, and not infact the game
 Also note that for testing purposes your character model and weapon loadouts are randomized each 
 respawn, any non-girl frontline models are currently placeholders and will be replaced with more, 
 as we get more commissioned and added to the workshop.
+
+
