@@ -1,5 +1,3 @@
-# Girls-Frontline
-
 Upload to github by Blueberry 
 Original autor Ruko https://steamcommunity.com/profiles/76561198029078692/
 
