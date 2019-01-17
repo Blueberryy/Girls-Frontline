@@ -171,7 +171,7 @@ local function tabSoldier()
 	local mdl = LocalPlayer():GetModel()
 	if mdl then
 		pnl.view = vgui.Create( "DModelPanel", pnl )
-		pnl.view:SetSize( 500, 600 )
+		pnl.view:SetSize( 400, 650 )
 		pnl.view:SetModel( brawl.myModel )
 		pnl.view.Entity:SetSkin( brawl.mySkin )
 		local anim = pnl.view.Entity:LookupSequence( "sit_zen" )
