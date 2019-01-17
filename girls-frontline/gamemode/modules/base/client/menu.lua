@@ -199,21 +199,6 @@ local function tabSoldier()
 
 end
 
-local function tabChangelog()
-
-	local pnl = vgui.Create( "DPanel", brawl.menu.pnl )
-	pnl.Paint = brawl.paint.tabPanel
-	pnl:Dock( FILL )
-	local tab = brawl.menu.pnl:AddSheet( "Changelog", pnl )
-	tab.Tab.Paint = brawl.paint.tabButton
-	tab.Tab:SetFont( fonts.tabButton )
-
-	local html = vgui.Create( "DHTML" , pnl )
-	html:Dock( FILL )
-	html:OpenURL( "http://www.octothorp.team/changelog/?s=brawl" )
-
-end
-
 local function tabOptions()
 
 	local pnl = vgui.Create( "DPanel", brawl.menu.pnl )
