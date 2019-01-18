@@ -65,7 +65,7 @@ function meta:LoadSkills()
 	self:SetRunSpeed( brawl.config.player.baseRunSpeed )
 	self:SetCanZoom( false )
 
-	self:SetStamina( 100 )
+	self:SetStamina( 250 )
 	self.staminaLastUse = CurTime()
 	self.canSprint = true
 	self.canJump = true
