@@ -150,6 +150,11 @@ brawl.config.maps = {
 		img = "https://steamuserimages-a.akamaihd.net/ugc/960856720978837756/B05F4B9160FF28682EE7029841544EA7692554BF/",
 		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
 	},	
+	rp_eastcoast_v4b = {
+		name = "East Coast City", workshop = "rp_eastcoast_v4b",
+		img = "https://steamuserimages-a.akamaihd.net/ugc/99473989861329244/B313069CC86B7E7E2E651BCB8F34A987C05BAE51/",
+		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
+	},
 
 	-- add more maps by using this template
 
