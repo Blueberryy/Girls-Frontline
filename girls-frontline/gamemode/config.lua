@@ -130,11 +130,6 @@ brawl.config.maps = {
 		img = "https://steamuserimages-a.akamaihd.net/ugc/960856316456232289/9802ECFFD3E628BE7A8983762706F2FBC932F6E7/",
 		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
 	},
-	nt_ballistrade_ctg = {
-		name = "Night Cross-Fire", workshop = "512401711",
-		img = "https://steamuserimages-a.akamaihd.net/ugc/960856316456232289/9802ECFFD3E628BE7A8983762706F2FBC932F6E7/",
-		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
-	},
 	nt_marketa_ctg = {
 		name = "S07 Market", workshop = "512401711",
 		img = "https://steamuserimages-a.akamaihd.net/ugc/960856316459512726/59437E08A58ED71CF32EAE8C200409E98650D73C/",
@@ -151,8 +146,18 @@ brawl.config.maps = {
 		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
 	},	
 	rp_eastcoast_v4b = {
-		name = "East Coast City", workshop = "rp_eastcoast_v4b",
+		name = "East Coast City", workshop = "817430636",
 		img = "https://steamuserimages-a.akamaihd.net/ugc/99473989861329244/B313069CC86B7E7E2E651BCB8F34A987C05BAE51/",
+		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
+	},
+	nt_oilstain_ctg = {
+		name = "Griffon & Kyruger Facility", workshop = "512401711",
+		img = "https://steamuserimages-a.akamaihd.net/ugc/960857170317053178/0B78DAC9C49693F9CE9BC7055A2577EFA73A5946/",
+		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
+	},
+	nt_pissalley_ctg = {
+		name = "S09 Combat Zone", workshop = "512401711",
+		img = "https://steamuserimages-a.akamaihd.net/ugc/960857170317075635/B43CF025CD1D5D7FCC9944B9DAC48C5442BEB89B/",
 		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
 	},
 
