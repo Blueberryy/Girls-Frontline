@@ -41,7 +41,7 @@ brawl.config.player = {
 	baseRunSpeed = 300,
 
 	staminaRegenDelay = 2,
-	staminaRegenRate = 15,
+	staminaRegenRate = 30,
 	staminaSprintCost = 25,
 	staminaJumpCost = 5,
 	healthRegenDelay = 5,
@@ -145,11 +145,6 @@ brawl.config.maps = {
 		img = "https://steamuserimages-a.akamaihd.net/ugc/960856720978837756/B05F4B9160FF28682EE7029841544EA7692554BF/",
 		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
 	},	
-	rp_eastcoast_v4b = {
-		name = "East Coast City", workshop = "817430636",
-		img = "https://steamuserimages-a.akamaihd.net/ugc/99473989861329244/B313069CC86B7E7E2E651BCB8F34A987C05BAE51/",
-		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
-	},
 	nt_oilstain_ctg = {
 		name = "Griffon & Kyruger Facility", workshop = "512401711",
 		img = "https://steamuserimages-a.akamaihd.net/ugc/960857170317053178/0B78DAC9C49693F9CE9BC7055A2577EFA73A5946/",
