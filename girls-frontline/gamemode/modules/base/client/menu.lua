@@ -210,6 +210,39 @@ local function tabOptions()
 
 end
 
+local function tabCharacters()
+
+	local pnl = vgui.Create( "DPanel", brawl.menu.pnl )
+	pnl.Paint = brawl.paint.tabPanel
+	pnl:Dock( FILL )
+	local tab = brawl.menu.pnl:AddSheet( "T-Dolls", pnl )
+	tab.Tab.Paint = brawl.paint.tabButton
+	tab.Tab:SetFont( fonts.tabButton )
+	
+	-- build right menu
+	local menu = brawl.DPanel{
+		parent = pnl,
+		pos = { 500, 0 },
+		size = { 150, 600 },
+		paint = brawl.paint.menuPanel
+	}
+
+	local y = 0
+	local function button( txt, callback )
+		brawl.DButton{
+			parent = menu,
+			pos = { 0, y },
+			size = { 150, 40 },
+			txt = "",
+			data = { txt = txt, font = fonts.menuButton },
+			onselect = callback,
+			paint = brawl.paint.menuButton
+		}
+		y = y + 40
+	end
+
+end
+
 function brawl.menu.toggle( ply, cmd, args, argStr )
 
 	if not IsValid( brawl.menu.pnl ) then
@@ -223,8 +256,8 @@ function brawl.menu.toggle( ply, cmd, args, argStr )
 
 		tabCurGame()
 		tabSoldier()
-		tabChangelog()
 		tabOptions()
+		tabCharacters()
 
 		brawl.menu.active = true
 		surface.PlaySound( "girls-frontline/menu-open.ogg" )
