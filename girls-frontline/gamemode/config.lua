@@ -160,6 +160,12 @@ brawl.config.maps = {
 		img = "https://steamuserimages-a.akamaihd.net/ugc/960857170317075635/B43CF025CD1D5D7FCC9944B9DAC48C5442BEB89B/",
 		modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
 	},
+	nt_ridgeline_ctg = {
+          name = "Reversal Sequence", workshop = "512401711",
+	  img = "https://steamuserimages-a.akamaihd.net/ugc/960857516894219733/276DF887BE061C09A41221AECD9EAE04B6B911BB/",
+	  modes = { "ffa_dm", "ffa_el", "squad_dm", "squad_el", "team_dm", "team_el", "gg" },
+	},	
+
 
 	-- add more maps by using this template
 
