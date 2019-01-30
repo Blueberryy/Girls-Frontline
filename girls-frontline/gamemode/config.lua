@@ -389,6 +389,11 @@ brawl.config.weapons = {
 			"blast_tfa_g11",
 			"blast_tfa_caws",
 		        "tfa_l4d2_rocky_ro2bar",
+			"tfa_doim1garand",
+			"tfa_doispringfield_scop",
+			"tfa_doienfield_scop",
+			"tfa_doic96carbine",
+			"tfa_doig43",
 		},
 
 		shotguns = {
@@ -457,6 +462,11 @@ brawl.config.weapons = {
 			"blast_tfa_g11",
 			"blast_tfa_caws",
 			"tfa_l4d2_rocky_ro2bar",
+			"tfa_doim1garand",
+			"tfa_doispringfield_scop",
+			"tfa_doienfield_scop",
+			"tfa_doic96carbine",
+			"tfa_doig43",
 		},
 
 		rifles = {
@@ -526,6 +536,11 @@ brawl.config.weapons = {
 			"blast_tfa_g11",
 			"blast_tfa_caws",
 			"tfa_l4d2_rocky_ro2bar",
+			"tfa_doim1garand",
+			"tfa_doispringfield_scop",
+			"tfa_doienfield_scop",
+			"tfa_doic96carbine",
+			"tfa_doig43",
 		},
 
 		snipers = {
@@ -595,6 +610,11 @@ brawl.config.weapons = {
 			"blast_tfa_g11",
 			"blast_tfa_caws",
 			"tfa_l4d2_rocky_ro2bar",
+			"tfa_doim1garand",
+			"tfa_doispringfield_scop",
+			"tfa_doienfield_scop",
+			"tfa_doic96carbine",
+			"tfa_doig43",
 		},
 
 		heavy = {
@@ -664,6 +684,11 @@ brawl.config.weapons = {
 			"blast_tfa_g11",
 			"blast_tfa_caws",
 			"tfa_l4d2_rocky_ro2bar",
+			"tfa_doim1garand",
+			"tfa_doispringfield_scop",
+			"tfa_doienfield_scop",
+			"tfa_doic96carbine",
+			"tfa_doig43",
 		},
 	},
 
