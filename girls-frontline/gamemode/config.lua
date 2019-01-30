@@ -394,6 +394,7 @@ brawl.config.weapons = {
 			"tfa_doienfield_scop",
 			"tfa_doic96carbine",
 			"tfa_doig43",
+			"tfa_ins2_gfl_sopmod2",
 		},
 
 		shotguns = {
@@ -467,6 +468,7 @@ brawl.config.weapons = {
 			"tfa_doienfield_scop",
 			"tfa_doic96carbine",
 			"tfa_doig43",
+			"tfa_ins2_gfl_sopmod2",
 		},
 
 		rifles = {
@@ -541,6 +543,7 @@ brawl.config.weapons = {
 			"tfa_doienfield_scop",
 			"tfa_doic96carbine",
 			"tfa_doig43",
+			"tfa_ins2_gfl_sopmod2",
 		},
 
 		snipers = {
@@ -615,6 +618,7 @@ brawl.config.weapons = {
 			"tfa_doienfield_scop",
 			"tfa_doic96carbine",
 			"tfa_doig43",
+			"tfa_ins2_gfl_sopmod2",
 		},
 
 		heavy = {
@@ -689,6 +693,7 @@ brawl.config.weapons = {
 			"tfa_doienfield_scop",
 			"tfa_doic96carbine",
 			"tfa_doig43",
+			"tfa_ins2_gfl_sopmod2",
 		},
 	},
 
