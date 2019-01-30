@@ -5,7 +5,7 @@ MODE.stages = {
 	},
 	[2] = {
 		kills = 2,
-		weapons = { "tfa_ins2_ak400", "tfa_ins2_c7e" }
+		weapons = { "tfa_cso2_k1a", "tfa_cso2_mx4" }
 	},
 	[3] = {
 		kills = 2,
@@ -37,7 +37,7 @@ MODE.stages = {
 	},
 	[10] = {
 		kills = 2,
-		weapons = { "tfa_ins2_spectre", "tfa_ins2_ump45" }
+		weapons = { "tfa_doim1garand", "tfa_doig43" }
 	},
 	[11] = {
 		kills = 2,
