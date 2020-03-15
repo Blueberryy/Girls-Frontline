@@ -67,7 +67,7 @@ function brawl.initConCommands()
 	end
 
 	local map = string.lower( game.GetMap() )
-	if not brawl.config.maps[ map ] then error( "The map is not in config, please follow instructions here on how to add the map to gamemode: https://github.com/chelog/brawl" ) end
+	if not brawl.config.maps[ map ] then error( "The map is not in config, please follow instructions here on how to add the map to gamemode: https://github.com/Blueberryy/Girls-Frontline" ) end
 
 	local mapID = brawl.config.maps[ map ].workshop
 	if mapID then
