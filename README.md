@@ -38,9 +38,7 @@ participate in any of the alpha testings, or request the server files to host on
 
 ![](https://i.imgur.com/QJJqv6x.png)
 
-Be aware that this is just the content for the gamemode, and not infact the gamemode itself.<br> 
-Also note that for testing purposes your character model and weapon loadouts are randomized each<br> 
-respawn, any non-girl frontline models are currently placeholders and will be replaced with more, as<br> 
-we get more commissioned and added to the workshop.
+Gamemode is still W.I.P. and most features may not work properly.
+
 
 
